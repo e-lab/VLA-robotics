@@ -1,0 +1,4 @@
+mujoco>=4.0.0
+torch>=2.14.0
+numpy>=2.5.2
+pillow>=12.3.0
